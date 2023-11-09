@@ -37,7 +37,7 @@ public class AuthController {
         model.addAttribute("title", "Home Pages");
         return "index";
     }
- 
+
 
 
     @RequestMapping("/register")
